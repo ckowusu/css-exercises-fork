@@ -1,4 +1,4 @@
-.same {
+.odd {
     background-color: #ffc0cb;
     font-family: Verdana, Dejavu sans, sans-serif ;
 }
@@ -6,4 +6,18 @@
 #id-two {
     color: #00f;
     font-size: 36px;
+    font-family: Verdana, Dejavu sans, sans-serif ;
+}
+
+.class-three {
+    background-color: #ffc0cb;
+    font-family: Verdana, Dejavu sans, sans-serif ;
+    font-size: 24px;
+}
+
+#id-four {
+    background-color: #90ee90;
+    font-family: Verdana, Dejavu sans, sans-serif ;
+    font-size: 24px;
+    font-weight: bold;
 }
